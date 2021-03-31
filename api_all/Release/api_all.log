@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(324,6): warning C4101: 'errMsg': ローカル変数は 1 度も使われていません。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(420,23): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(421,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(424,24): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(442,14): warning C4101: 'ps': ローカル変数は 1 度も使われていません。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(542,6): warning C4101: 'errMsg': ローカル変数は 1 度も使われていません。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(622,23): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(623,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(626,24): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(644,14): warning C4101: 'ps': ローカル変数は 1 度も使われていません。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(763,15): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(764,15): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(740,6): warning C4101: 'errMsg': ローカル変数は 1 度も使われていません。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(820,32): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(821,30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(823,23): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(824,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(794,6): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\api_all\main.cpp(840,14): warning C4101: 'ps': ローカル変数は 1 度も使われていません。
+  LLGMN.cpp
+  tmp.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: 外部シンボル _main は未解決です
+C:\Users\shigeta\M1\新入生課題秋\API_sample\api_task\api_all\Release\api_all.exe : fatal error LNK1120: 1 件の未解決の外部参照
